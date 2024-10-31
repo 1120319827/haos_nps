@@ -1,0 +1,9 @@
+{
+  "domain": "nps",
+  "name": "NPS",
+  "codeowners": ["@xiaols"],
+  "config_flow": true,
+  "version": "1.0",
+  "documentation": "",
+  "requirements": []
+}
